@@ -299,7 +299,7 @@ The project follows a **Star Schema**.
 
 | Home | Stock Analysis |
 |------|----------------|
-| ![](./assets/Home_page.png) | ![](./assets/Stock_Analysis.png) |
+| ![](./assets/Home_Page.png) | ![](./assets/stock_analysis.png) |
 
 | Crypto Analysis | Portfolio Analysis |
 |-----------------|--------------------|
@@ -307,7 +307,7 @@ The project follows a **Star Schema**.
 
 | Investor Analysis | Risk Profile |
 |-------------------|--------------|
-| ![](./assets/Investor_Analysis.png) | ![](./assets/Risk_Profile.png) |
+| ![](./assets/Investor_Analysis.png) | ![](./assets/Risk_profile.png) |
 
 ---
 
