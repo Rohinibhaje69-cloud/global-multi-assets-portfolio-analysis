@@ -298,22 +298,22 @@ The project follows a **Star Schema**.
 # Dashboard Preview
 
 ### Home Page
-![home_page](./assets/home_page.png)
+![home_page](./home_page.png)
 
 ### Stock Analysis
 ![stock_analysis](./assets/stock_analysis.png)
 
 ### Crypto Analysis
-![crypto_analysis](./assets/crypto_analysis.png)
+![crypto_analysis](./crypto_analysis.png)
 
 ### Portfolio Analysis
-![portfolio_analysis](./assets/portfolio_analysis.png)
+![portfolio_analysis](./portfolio_analysis.png)
 
 ### Investor Analysis 
-![investor_analysis](./assets/investor_analysis.png)
+![investor_analysis](./investor_analysis.png)
 
 ### Risk Profile
-![risk_profile](./assets/risk_profile.png)
+![risk_profile](./risk_profile.png)
 
 ---
 
