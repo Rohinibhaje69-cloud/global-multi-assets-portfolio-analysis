@@ -313,7 +313,7 @@ The project follows a **Star Schema**.
 ![investor_analysis](./assets/investor_analysis.png)
 
 ### Risk Profile
-![risk_profile](./assets/risk_profile.png) |
+![risk_profile](./assets/risk_profile.png)
 
 ---
 
